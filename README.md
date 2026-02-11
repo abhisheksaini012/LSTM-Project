@@ -160,22 +160,6 @@ Metadata includes vocabulary mappings and configuration.
 
 ------------------------------------------------------------------------
 
-# 📂 Project Structure
-
-    lstm-text-generator/
-    │
-    ├── data/
-    ├── models/
-    ├── outputs/
-    ├── src/
-    ├── untitled0.ipynb
-    ├── lstm_text_generator.keras
-    ├── model_metadata.pkl
-    ├── training_history.pkl
-    └── README.md
-
-------------------------------------------------------------------------
-
 # 🛠 Technologies Used
 
 -   Python
